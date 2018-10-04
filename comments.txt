@@ -1,0 +1,4 @@
+A couple notes I have about the exercise:
+	-I wasn't sure whether or not to filter properties with descriptions missing "and" in the first 200 characters.  I decided to only filter properties where and was not present in any part of the description field based on my reading of the prompt.
+
+	-You may notice that the provided xml is downloaded and stored in the repo.  This xml is used only by my unit tests to verify that the download in the main script is working properly.  
